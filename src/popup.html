@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Clear your browser cache</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="popup.js" defer></script>
+  </head>
+  <body>
+    <header>
+      <h1>Clear Cache</h1>
+    </header>
+    <br />
+    <p>Choose a time range to clear cache:</p>
+    <div>
+      <button id="All History">All History</button>
+      <button id="Past Month">Past Month</button>
+      <button id="Past Week">Past Week</button>
+      <button id="Past Day">Past Day</button>
+      <button id="Past Hour">Past Hour</button>
+      <button id="Past 15 Minutes">Past 15 Minutes</button>
+    </div>
+    <div id="status"></div>
+    <p id="lastCleared"></p>
+  </body>
+</html>
