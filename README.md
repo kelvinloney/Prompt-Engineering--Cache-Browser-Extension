@@ -2,7 +2,7 @@
 
 This template displays how I built a Chrome browser extension with GitHub Copilot - via Prompt Engineering.
 
-To be clear, as a developer, Prompt Engineering involves **providing instructions or comments in the IDE to generate specific coding suggestions**.
+As a developer, Prompt Engineering involves **providing instructions or comments in the IDE to generate specific coding suggestions**.
 
 These instructions or comments, otherwise known as Prompts, can be code blocks, individual lines of code, or natural language comments that I write to generate a specific suggestion from GitHub Copilot.
 
